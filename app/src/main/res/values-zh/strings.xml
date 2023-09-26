@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Android Labs</string>
-    <string name="hello_message">您好!</string>
-    <string name="ButtonText">I\'m a button</string>
+    <string name="hello_message">请看我的GUI</string>
+    <string name="ButtonText">点击这里</string>
+    <string name="CheckBoxText">勾选这个!</string>
+    <string name="SwitchText">打开/关闭</string>
+    <string name="EditText">在此输入</string>
+    <string name="toast_message">这里是更多的信息</string>
 </resources>
