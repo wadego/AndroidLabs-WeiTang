@@ -22,7 +22,9 @@
         android:layout_columnWeight="1"
         android:layout_gravity="fill_horizontal"
         android:text="@string/ButtonText"
-        android:layout_columnSpan="1" />
+        android:layout_columnSpan="1"
+        android:background="#808080"
+        android:textColor="#000000"/>
 
     <CheckBox
         android:layout_width="wrap_content"
