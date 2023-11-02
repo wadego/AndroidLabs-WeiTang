@@ -6,4 +6,15 @@
     <string name="SwitchText">Switch on/off</string>
     <string name="EditText">Type here</string>
     <string name="toast_message">Here is more information</string>
+    <string name="enter_email_message">Enter your email address:</string>
+    <string name="type_email_message">Type email here</string>
+    <string name="enter_password_message">Type your password:</string>
+    <string name="login_button">LOGIN</string>
+    <string name="profile_title">Your profile</string>
+    <string name="profile_name_label">Your name:</string>
+    <string name="profile_name_text">Enter your name</string>
+    <string name="profile_email_label">Your email:</string>
+    <string name="profile_email_text">Enter your email</string>
+    <string name="profile_picture_label">Your picture:</string>
+    <string name="profile_button_hint">Click the button above to take a picture</string>
 </resources>

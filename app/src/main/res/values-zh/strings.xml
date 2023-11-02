@@ -7,4 +7,8 @@
     <string name="SwitchText">打开/关闭</string>
     <string name="EditText">在此输入</string>
     <string name="toast_message">这里是更多的信息</string>
+    <string name="enter_email_message">输入Email地址:</string>
+    <string name="type_email_message">在此输入Email地址</string>
+    <string name="enter_password_message">输入您的密码:</string>
+    <string name="login_button">登录</string>
 </resources>
